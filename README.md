@@ -8,5 +8,7 @@ When reading in the data, many times the first column will result in a sequence 
 
 The remaining code specifies the length of MCMC chains, and the number of chains.  If convergence and mixing of MCMC chains is not accomplished, it is recommended to increase the length of the chains, or iteration number. 
 
+To run the simulation and produce the 
+
 ## If recovery data is not available ...
 Follow these same steps, but now use the files beginning with "oneDSA" to run the simulation. Results on recovery density will not be produced. 
